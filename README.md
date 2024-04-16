@@ -31,3 +31,7 @@ Please use the nips_2017.tex latex template (which uses nips_2017.sty) and compi
 Note that the \nipsfinalcopy command is now obsolete.
 
 program-chairs@nips.cc
+
+#Note: to remove line numbers remove line 58, 50 and 60 (   % line numbers for submission
+  \RequirePackage{lineno}
+  \linenumbers ) from nips_2017.sty or use nips_2017_new.sty 
