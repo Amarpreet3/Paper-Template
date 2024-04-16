@@ -21,7 +21,7 @@ All NIPS submissions must be made via the electronic submissions system. Make su
 You are strongly encouraged to test the formatting of your paper using the NIPS paper checker (well in advance of the deadline due to server limitations).
 
 Reviewing will be double-blind
-The reviewers will not know the identities of the authors. It is the responsibility of the authors to ensure the proper anonymization of their paper. Please note that display math in bare TeX commands will not create correct line numbers at submission time. Please use LaTeX commands for unnumbered display math (or, equivalently with AMSTeX). (You shouldn't be using anyway, see here and here.)
+The reviewers will not know the identities of the authors. It is the responsibility of the authors to ensure the proper anonymization of their paper. Please note that display math in bare TeX commands will not create correct line numbers at submission time. Please use LaTeX commands for unnumbered display math (or, equivalently with AMSTeX). [Here](https://tex.stackexchange.com/questions/503/why-is-preferable-to) and [Here](https://nips.cc/http://tex.stackexchange.com/questions/40492/what-are-the-differences-between-align-equation-and-displaymath)
 
 Camera-ready papers
 Please use the nips_2017.tex latex template (which uses nips_2017.sty) and compile with the [final] option:
