@@ -5,7 +5,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Conference_on_Neural_Information_
 
 The Conference and Workshop on Neural Information Processing Systems (NIPS) is a machine learning and computational neuroscience conference held every December. The conference is currently a double-track meeting (single-track until 2015) that includes invited talks as well as oral and poster presentations of refereed papers, followed by parallel-track workshops that up to 2013 were held at ski resorts.
 ## NIPS 2017 Latex Template
-Check here for details.
+Check [here](https://nips.cc/Conferences/2017/PaperInformation/StyleFiles) for details.
 
 NOTE: The LaTeX style for NIPS 2017 has changes from previous years. Please use the correct version!
 
